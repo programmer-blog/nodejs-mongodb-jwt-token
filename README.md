@@ -2,7 +2,7 @@
 API to register and login a user to create contacts with authenticated routes
 
 
-##Instructions to run the project
+## Instructions to run the project
 
 1. Download or Clone the repository to your system.
 
@@ -84,7 +84,8 @@ upon success a user id would be returned.
         "address": "This is address"
     }
     `
- 7. Upon success MongoDB saved document is returned.
+    
+7. Upon success MongoDB saved document is returned.
 
  ### View all contacts in an authenticated route
 
